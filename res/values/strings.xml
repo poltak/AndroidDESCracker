@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDESCracker</string>
+    <string name="service_dictgen">Please wait</string>
+    <string name="service_stopped">Start</string>
+    <string name="service_running">Stop</string>
+    <string name="status_searching">Searching for valid key&#8230;</string>
+    <string name="status_stopped">Brute force crack not currently running.</string>
+    <string name="status_dictgen">Dictionary currently being generated&#8230;</string>
+    <string name="status_IOexception">Fatal IO error encountered.</string>
+    <string name="status_invalidreply">Received corrupt reply from server.</string>
+    <string name="status_notfound">Key not found in keyspace.</string>
+    <string name="status_dicterror">Dictionary cannot be generated from file.</string>
+    <string name="avg_search_rate">Average search rate: </string>
+    <string name="current_search_rate">Current search rate: </string>
+    <string name="time_est">Estimated time remaining: </string>
+    <string name="tfalse">Test: false attempt</string>
+    <string name="ttrue">Test: true attempt</string>
+    <string name="real">Real attempt</string>
+
+</resources>
